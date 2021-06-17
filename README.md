@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharanreddy99
-- 👀 I’m interested in - Web Development...
-- 🌱 I’m currently learning - Golang
+- 👀 I’m interested in - Full Stack Development...
+- 🌱 I’m currently learning - Golang and Docker
 - 📫 How to reach me - https://www.linkedin.com/in/sharan-konda-90b3a6193/
 
 <!---
